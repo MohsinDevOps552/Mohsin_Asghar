@@ -75,34 +75,16 @@ PMAS-Arid University, Islamabad
 - Linux Essentials (LPI)
 - AWS Certified Cloud Practitioner
 
----
 
-## 🧠 Soft Skills
-- Problem-solving & analytical thinking  
-- Communication & teamwork  
-- Time management  
-- High attention to detail  
-- Fast learner & adaptable  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohsin-asghar&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohsin-asghar&layout=compact&theme=tokyonight" height="165"/>
-</p>
 
 ---
 
 ## 📫 Connect With Me
 
 - **Email:** mohsinasghar552@gmail.com  
-- **LinkedIn:** (Add your LinkedIn link here)
+- **LinkedIn:** (https://www.linkedin.com/in/mohsin-asghar-7a544b24b )
 
----
 
-## ⚡ Fun Fact
-"I break servers just to learn how to fix them 😄"
 
----
+
+
